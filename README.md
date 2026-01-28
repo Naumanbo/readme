@@ -154,7 +154,7 @@ GIF PLACEHOLDER – Installation and Startup Walkthrough
 
 ## 🏗 Architecture
 
-MapReduceX follows a Coordinator–Worker architecture commonly used in distributed systems.
+MapReduce follows a Coordinator–Worker architecture commonly used in distributed systems.
 
 ### Components
 
@@ -177,8 +177,8 @@ Insert a diagram showing:
 - Task flow
 - Intermediate and final outputs
 
-File location:
-assets/architecture_diagram.png
+
+![Architecture Diagram](assets//architecture_diagram.png)
 
 ---
 
