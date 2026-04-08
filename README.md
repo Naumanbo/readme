@@ -202,7 +202,7 @@ Example output:
 ### ▶️ Submitting a Job
 
 Job Submission Flow  
-Show:
+Shows:
 - Starting the coordinator
 - Workers connecting
 - Job submission
@@ -215,7 +215,7 @@ Show:
 ### ▶️ Fault Tolerance Demo
 
 Worker Failure Recovery  
-Show:
+Shows:
 - Worker process crashing
 - Coordinator detecting failure
 - Task reassignment to another worker
