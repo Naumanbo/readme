@@ -124,7 +124,6 @@ Open additional terminals (with the virtual environment activated) and run:
 
 You can launch multiple workers to simulate a distributed cluster.
 
-GIF PLACEHOLDER – Installation and Startup Walkthrough  
 ![Installation and startup walkthrough showing environment setup, manager startup, and worker initialization](assets/gifs/starting_worker_and_manager.gif)
 
 
@@ -169,13 +168,6 @@ Workers:
 - Write intermediate results to disk
 
 ### 📐 Architecture Diagram
-
-ARCHITECTURE DIAGRAM PLACEHOLDER  
-Insert a diagram showing:
-- Coordinator
-- Multiple workers
-- Task flow
-- Intermediate and final outputs
 
 
 ![Architecture Diagram](assets//architecture_diagram.png)
